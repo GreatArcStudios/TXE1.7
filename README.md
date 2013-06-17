@@ -7,7 +7,7 @@
 Special Thanks Turk4n of CodeCall.net, Mashiko SWAI of Say font chooser, icons from <a href="http://www.visualpharm.com/must_have_icon_set/">VisualPhram</a> and TXE Math powered by LogicStuffs.
 
 
-TXE-1.6.5-Src
+TXE-1.7-Src
 =============
 About TXE
 
