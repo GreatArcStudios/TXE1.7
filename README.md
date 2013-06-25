@@ -4,7 +4,7 @@
 @Author Eric Zhu 
 
 
-Special Thanks Turk4n of CodeCall.net, Mashiko SWAI of Say font chooser, icons from <a href="http://www.visualpharm.com/must_have_icon_set/">VisualPhram</a> and TXE Math powered by LogicStuffs, with credit to <b>ProgrammingKnowledge</b> on YouTube.
+Special Thanks Turk4n of CodeCall.net, Mashiko SWAI of Say font chooser, icons from <a href="http://www.visualpharm.com/must_have_icon_set/">VisualPhram</a> and TXE Math powered by LogicStuffs, with credit to ProgrammingKnowledge on YouTube.
 
 
 TXE-1.7-Src
