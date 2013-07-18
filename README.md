@@ -4,9 +4,6 @@
 @Author Eric Zhu 
 
 
-Special Thanks Turk4n of CodeCall.net, Mashiko SWAI of Say font chooser, icons from <a href="http://www.visualpharm.com/must_have_icon_set/">VisualPhram</a> and TXE Math powered by LogicStuffs, with credit to ProgrammingKnowledge on YouTube.
-
-
 TXE-1.7-Src
 =============
 About TXE
@@ -82,3 +79,6 @@ into the project folder, from either finder or Windows Explorer.
 
 
 9.Please share or report your versions of TXE to the community.
+
+====
+Special Thanks: Turk4n of CodeCall.net, Mashiko SWAI of Say font chooser, icons from <a href="http://www.visualpharm.com/must_have_icon_set/">VisualPhram</a> and TXE Math powered by LogicStuffs, with credit to ProgrammingKnowledge on YouTube.
